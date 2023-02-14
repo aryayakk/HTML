@@ -1,0 +1,18 @@
+h1 {
+  color: #0061ff;
+  text-align: center;
+  line-height: 10px;
+}
+
+h3 {
+  color: coral;
+  text-align: center;
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+  text-indent: 25px;
+}
