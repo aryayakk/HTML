@@ -2,6 +2,7 @@ h1 {
   color: #0061ff;
   text-align: center;
   line-height: 10px;
+  padding-top: 30px;
 }
 
 h3 {
@@ -11,8 +12,15 @@ h3 {
 
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color:whitesmoke;
 }
 
 p {
   text-indent: 25px;
+}
+
+img {
+  width: 300px;
 }
